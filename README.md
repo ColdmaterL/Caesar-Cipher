@@ -1,2 +1,2 @@
 # Caesar-Cipher
-Encripta e Desencripta mensagens no estilo da cifra de césar.
+Encrypts and decrypts messages in Caesar's cipher style.
