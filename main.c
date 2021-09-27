@@ -27,7 +27,7 @@ char *soLetras(char word[]){
 }
 
 
-int soNumeros(){ //mecher no endereço do numero?
+int soNumeros(){
     char word[50];
     char c;
     int i = 0;
